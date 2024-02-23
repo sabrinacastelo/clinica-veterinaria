@@ -1,0 +1,3 @@
+class Especie {
+    String nomeEspecie;
+}
